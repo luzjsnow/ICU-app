@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-single/
+dist-scriptable/
+dist-apk/
+android/
+ios/
+.DS_Store
+*.log
